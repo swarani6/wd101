@@ -15,7 +15,7 @@ input[type="password"],
 input[type="checkbox"]{
     margin-bottom: 20px;
     padding: 8px;
-    border: 1px solid rgb(10, 0, 0);
+    border: 1px solid rgb(17, 5, 62)96);
     border-radius: 5px;
 }
 
@@ -28,7 +28,7 @@ input[type="password"] {
 
 button[type="submit"] {
     background-color: #78bd7a;
-    color: rgb(155, 34, 34);
+    color: rgb(255, 255, 255);
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
@@ -47,12 +47,12 @@ table {
 
 table th,
 table td {
-    border: 2px solid rgb(233, 162, 162);
+    border: 5px solid #a2d5e9;
     padding: 7px;
 }
 
 table th {
-    background-color: #e4a7a7;
+    background-color: #a2d5e9;
     text-align:center;
 }
 
